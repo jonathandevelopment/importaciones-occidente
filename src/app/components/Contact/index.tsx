@@ -48,7 +48,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className=" text-white py-20 px-4"
+      className=" text-white py-28 px-4"
     >
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-16">
         {/* Formulario de contacto */}

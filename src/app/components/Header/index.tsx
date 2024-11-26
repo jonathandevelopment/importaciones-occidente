@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function Hero() {
   return (
-    <section className="  text-white py-8 md:py-16 flex items-center px-4">
+    <section className="  text-white py-8 md:pt-28 md:pb-10 flex items-center px-4">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-center ">
         <div>
           <div className="flex items-center">
@@ -20,7 +20,7 @@ export default function Hero() {
           </p>
           <div className="mt-8">
             <Link
-              href="/"
+              href="/#services"
               className="inline-block px-8 py-3 bg-orange-900 text-white text-lg font-semibold rounded-full hover:bg-orange-700 transition duration-300"
             >
               Servicios

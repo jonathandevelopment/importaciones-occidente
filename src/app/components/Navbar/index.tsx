@@ -37,7 +37,7 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="/" className="font-[family-name:var(--font-geist-mono)] font-bold text-amber-400 hover:underline">
+            <Link href="/#services" className="font-[family-name:var(--font-geist-mono)] font-bold text-amber-400 hover:underline">
               Servicios
             </Link>
           </li>
